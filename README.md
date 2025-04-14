@@ -5,6 +5,11 @@
 
 ---
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jua&size=30&letterSpacing=1px&duration=3999&pause=10&color=7DA7F7&center=true&vCenter=true&multiline=true&width=1200&height=120&lines=%EC%9D%BC%EC%83%81+%EC%86%8D%EC%9D%98+%EC%9D%98%EB%AC%B8%EC%97%90+%EC%A7%88%EB%AC%B8%EC%9D%84+%EB%8D%98%EC%A7%80%EA%B3%A0%2C;%EC%83%9D%EA%B0%81%EA%B3%BC+%EA%B8%B0%EC%88%A0%EB%A1%9C+%EA%B8%B8%EC%9D%84+%EC%B0%BE%EA%B3%A0%2C;%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98%EC%9C%BC%EB%A1%9C+%EC%99%84%EC%84%B1%ED%95%A9%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
+
+
+---
+
 ### 🧭 About Me
 
 - 🧩 다양한 분야를 넘나드는 호기심으로 프로젝트를 기획하고 실현하는 Product Manager  
@@ -76,8 +81,6 @@
 ---
 ### 🛠️ Tech Stack - Experienced LEVEL
 
-### 💌 Contact
-
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
@@ -96,6 +99,11 @@
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
 
+---
+### 💌 Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ghdrlf718@gmail.com)
+[![Notion Portfolio](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://lavender-epoch-295.notion.site/fbc8ee363ce54c45a373ff030fe0f6c2?pvs=73)
 ---
 
 > “일상 속 의문에 질문을 던지고, 생각과 기술로 길을 찾고, 커뮤니케이션으로 완성하는 PM 이홍길입니다.”
